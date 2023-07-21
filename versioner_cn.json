@@ -1,0 +1,188 @@
+{
+    "versionName": "1.3.2",
+    "versionCode": 0,
+    "versionFormat": "%versionName%.%versionCode%.%versionGroup%",
+     "sponsors": [
+        {
+            "category": "Redstone",
+            "displayName": "rxangrben.event.sponsor.category.redstone",
+            "titleFormat": ["RED", "BOLD"],
+            "sponsorFormat": ["RED"],
+            "sponsors": [
+                {
+                    "name": "mczhanlang",
+                    "uuid": "baed49da-40e0-0ab3-7500-c8cfa93ac8e4"
+                },
+                {
+                    "name": "plplokok",
+                    "uuid": "ccec12c2-c1b0-bbe5-8e6e-bf5cec31e339"
+                },
+                {
+                    "name": "China196933",
+                    "uuid": "33edb6b2-cf7f-2307-ec3a-c349cd240cf8"
+                },
+                {
+                    "name": "xiaomiao",
+                    "uuid": "214591c2-ae43-8e19-0eb9-1e6f98d8d0e3"
+                },
+                {
+                    "name": "kill_gougou",
+                    "uuid": "921cc3ef-e6cc-f0ee-9ab4-6813f028194a"
+                }
+            ]
+        },
+        {
+            "category": "gold",
+            "displayName": "rxangrben.event.sponsor.category.gold",
+            "titleFormat": ["GOLD", "BOLD"],
+            "sponsorFormat": ["GOLD"],
+            "sponsors": [
+                "nisihhh",
+                "sdes",
+                "LUHS",
+                "Chine_8888",
+{
+                    "name": "787u",
+                    "uuid": "bf1d98b7-18cc-737e-f9b4-224c4338e014"
+                },
+                {
+                    "name": "huahuamc",
+                    "uuid": "29864f93-561e-13a7-1483-cd65311911c4"
+                },
+                "shui_titi",
+                {
+                    "name": "wdsj",
+                    "uuid": "891e352b-22e1-03f6-774d-473da57dc44f"
+                }
+            ]
+        },
+        {
+            "category": "diamond",
+            "displayName": "rxangrben.event.sponsor.category.diamond",
+            "titleFormat": ["AQUA", "BOLD"],
+            "sponsorFormat": ["AQUA"],
+            "sponsors": [
+                "zanzhuyyds",
+                "yyds",
+                "kill_gougou",
+                "kill",
+                {
+                    "name": "China196933",
+                    "uuid": "a42bbb04-4a66-987e-21f2-6b283ae5c6cf"
+                },
+                {
+                    "name": "huahua",
+                    "uuid": "c063c950-d036-e843-8ee1-898076038aca"
+                },
+                "shui_titi",
+                {
+                    "name": "yht",
+                    "uuid": "76f52a9b-352e-2584-f298-a6b75fd92820"
+                }
+            ]
+        },
+        {
+            "category": "emerald",
+            "displayName": "rxangrben.event.sponsor.category.emerald",
+            "titleFormat": ["GREEN", "BOLD"],
+            "sponsorFormat": ["GREEN"],
+            "sponsors": [
+                {
+                    "name": "My self",
+                    "uuid": "acf1744e-37a9-ae09-728c-66aea902d47c"
+                },
+                "xiaomiao",
+                "kill",
+                "wuhen",
+                "mcgougou",
+                "hjeds",
+                "bilibili_1989",
+                "My is sb",
+                "yun",
+                {
+                    "name": "jingxi",
+                    "uuid": "4b82c09d-dd0a-0f78-649e-0f3e354287e9"
+                },
+                {
+                    "name": "yunxi",
+                    "uuid": "69ca1a05-e4d3-72e8-5be2-b1abc8b65320"
+                }
+            ]
+        },
+        {
+            "category": "creator",
+            "displayName": "rxangrben.event.sponsor.category.creator",
+            "titleFormat": ["LIGHT_PURPLE", "BOLD"],
+            "sponsorFormat": ["LIGHT_PURPLE"],
+            "sponsors": [
+                {
+                    "name": "xiaomiao",
+                    "uuid": "411acefc-6dda-9ac6-1225-cf65efca1c12"
+                }
+            ]
+        }
+    ],
+    "sponsorMessage": [
+        "",
+        {
+            "text": "您的赞助是我创作的动力，感谢赞助！",
+            "color": "gold"
+        },
+        {
+            "text": "\n"
+        },
+        {
+            "text": "成为赞助者！",
+            "color": "red",
+            "bold": true,
+            "underlined": true,
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://afdian.net/a/RxanGrben"
+            }
+        }
+    ],
+    "changelogs": {
+        "1.3.0": [
+            "Mod更新",
+            "Bug修复"
+        ],
+        "1.2.9": [
+            "这是内测版本",
+            "所以你可能没有游玩",
+            "他是bate版本，但由于原因，没发布完全"
+        ]
+    },
+    "variables": {
+        "versionGroup": 0
+    },
+    "welcomeMessage": [
+        "",
+        {
+            "text": "欢迎游玩",
+            "color": "gold"
+        },
+        {
+            "text": "RxanGrben",
+            "bold": true,
+            "color": "aqua"
+        },
+        {
+            "text": "！",
+            "color": "gold"
+        },
+        {
+            "text": "\n"
+        },
+        {
+            "text": "加入我们的qq群！",
+            "bold": true,
+            "underlined": true,
+            "color": "blue",
+            "clickEvent": {
+                "action": "点击加入",
+                "value": "https://qm.qq.com/cgi-bin/qm/qr?k=dMkaTZnf8CHn0FyW8Gxequm3dYobupxF&jump_from"
+            }
+        }
+    ]
+}
